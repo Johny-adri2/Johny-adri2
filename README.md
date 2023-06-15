@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+This is my GitHub profile
+[Learning: JS, HTML, CSS]
 <!--
 **Johny-adri2/Johny-adri2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
